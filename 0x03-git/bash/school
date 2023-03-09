@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-School
-#!/bin/bas
-echo school
-=======
-echo School
->>>>>>> 021ce750a7c2ce86e2b2e66de03767349e753f19
+#!/bin/bash
+echo "The school is open!"
