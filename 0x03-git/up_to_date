@@ -1,1 +1,1 @@
-mkdir up_to_date
+git pull https://github.com/sargali/alx-zero_day.git
